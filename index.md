@@ -51,7 +51,7 @@
                         <i class="fa-solid fa-network-wired text-xl"></i>
                     </div>
                     <div>
-                        <h1 class="font-bold text-lg leading-tight tracking-tight text-slate-900 dark:text-white">Informatika Kelas 9</h1>
+                        <h1 class="font-bold text-lg leading-tight tracking-tight text-slate-900 dark:text-white">INFORMATIKA KELAS 9</h1>
                         <p class="text-xs text-slate-500 dark:text-slate-400">SMP NEGERI 2 NGADIREJO • Budi Winarno, S.Kom.</p>
                     </div>
                 </div>
